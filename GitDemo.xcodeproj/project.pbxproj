@@ -307,6 +307,7 @@
 				9B3577BA1DD95B75001F4F41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
